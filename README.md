@@ -1,5 +1,9 @@
-## Hi there 👋
+## Привет
+### Обо мне
+Я **студент** первого курса *ИГУ* направления *дизайн* 
+### Стек
 
+### Контакты
 <!--
 **dianakurochkina196-sudo/dianakurochkina196-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
