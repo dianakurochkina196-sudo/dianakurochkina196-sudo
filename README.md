@@ -2,9 +2,9 @@
 ### Обо мне
 Я **студент** первого курса *ИГУ* направления *дизайн* 
 ### Стек
-* Python
-* VS code
-* Github
+![Python](https://img.icons8.ru/?size=100&id=13441&format=png&color=000000)
+![VS code](https://img.icons8.ru/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
+![Git](https://img.icons8.ru/?size=100&id=ARy6tFUfwclb&format=png&color=000000)
 ****
 > Простота - необходимое условие прекрасного
 > 
