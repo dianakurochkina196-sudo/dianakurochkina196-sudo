@@ -2,8 +2,12 @@
 ### Обо мне
 Я **студент** первого курса *ИГУ* направления *дизайн* 
 ### Стек
-
+* Python
+* VS code
+* Github
 ### Контакты
+
+
 <!--
 **dianakurochkina196-sudo/dianakurochkina196-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
